@@ -8,6 +8,7 @@
     "dev": "nodemon server/server.js"
   },
   "keywords": [],
+  "repository": {"https://github.com/theticarcher38/Website.git"},
   "author": "Hunter Goodman",
   "license": "ISC",
   "dependencies": {
