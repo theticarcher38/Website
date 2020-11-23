@@ -1,0 +1,597 @@
+
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] Server running at http://127.0.0.1:8000
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./android-chrome-192x192.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./android-chrome-192x192.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./android-chrome-512x512.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./android-chrome-512x512.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./android-chrome-192x192.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./android-chrome-512x512.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./android-chrome-512x512.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./android-chrome-512x512.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./android-chrome-192x192.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./android-chrome-512x512.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./android-chrome-512x512.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./android-chrome-512x512.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./android-chrome-512x512.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./android-chrome-512x512.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./android-chrome-512x512.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./android-chrome-512x512.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./android-chrome-512x512.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./android-chrome-512x512.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./android-chrome-512x512.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./android-chrome-512x512.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./android-chrome-512x512.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./android-chrome-512x512.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/android-chrome-192x192.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon-32x32.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/android-chrome-512x512.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/home.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/home.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/about.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/home.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/about.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/favicon/apple-touch-icon.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/about.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalCss/header/header.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/favicon/apple-touch-icon.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/pages/about/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/pages/about/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/pages/about/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalCss/header/header.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/android-chrome-192x192.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/android-chrome-512x512.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon-32x32.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalCss/header/header.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/android-chrome-192x192.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/android-chrome-512x512.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon-32x32.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/home.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/home.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/home.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/home.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/home.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/home.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalCss/header/header.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/home.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/pages/home/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/pages/home/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/site.webmanifest
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/site.webmanifest requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./about/about.html requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./about/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./about/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./about/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./about/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./about/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./about/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./about/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./about/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./about/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/about/assets/globalJavascript/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./pages/home/assets/favicon/apple-touch-icon.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/fontAwesome.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon.ico
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/fontAwesome.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon.ico
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/fontAwesome.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/about/about.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/fontAwesome.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/fontAwesome.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/fontAwesome.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/fonts/fontawesome-webfont.woff2?v=4.7.0
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/globalCss/fonts/fontawesome-webfont.woff2?v=4.7.0 requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/fonts/fontawesome-webfont.woff?v=4.7.0
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/globalCss/fonts/fontawesome-webfont.woff?v=4.7.0 requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/fonts/fontawesome-webfont.ttf?v=4.7.0
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/globalCss/fonts/fontawesome-webfont.ttf?v=4.7.0 requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/fontAwesome.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/fonts/fontawesome-webfont.woff2?v=4.7.0
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/globalCss/fonts/fontawesome-webfont.woff2?v=4.7.0 requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/fonts/fontawesome-webfont.woff?v=4.7.0
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/globalCss/fonts/fontawesome-webfont.woff?v=4.7.0 requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/fonts/fontawesome-webfont.ttf?v=4.7.0
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/globalCss/fonts/fontawesome-webfont.ttf?v=4.7.0 requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/fonts/fontawesome-webfont.woff2?v=4.7.0
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/globalCss/fonts/fontawesome-webfont.woff2?v=4.7.0 requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/assets/globalCss/topnav/topnav.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/assets/globalCss/topnav/topnav.css requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/assets/globalCss/topnav/fontAwesome.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/assets/globalJavascript/topnav/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/assets/globalJavascript/topnav/topnav.js requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/assets/favicon/apple-touch-icon.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/assets/favicon/apple-touch-icon.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/assets/favicon/favicon-16x16.png
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] The page ./assets/assets/favicon/favicon-16x16.png requested could not be located.
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Sun Nov 22 2020 15:16:20 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+
+[Mon Nov 23 2020 06:50:08 GMT-0600 (Central Standard Time)] Server running at http://127.0.0.1:8000
+
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] Server running at http://127.0.0.1:8000
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:50:29 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] Server running at http://127.0.0.1:8000
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:51:28 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+
+[Mon Nov 23 2020 06:52:09 GMT-0600 (Central Standard Time)] Server running at http://127.0.0.1:8000
+[Mon Nov 23 2020 06:52:09 GMT-0600 (Central Standard Time)] requesting ./pages/about/about.html
+[Mon Nov 23 2020 06:52:09 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+[Mon Nov 23 2020 06:52:09 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Mon Nov 23 2020 06:52:09 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Mon Nov 23 2020 06:52:09 GMT-0600 (Central Standard Time)] requesting ./pages/home/home.html
+[Mon Nov 23 2020 06:52:09 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Mon Nov 23 2020 06:52:09 GMT-0600 (Central Standard Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Mon Nov 23 2020 06:52:09 GMT-0600 (Central Standard Time)] requesting ./assets/globalCss/header/header.css
+
+[Mon Nov 23 2020 06:53:36 GMT-0600 (Central Standard Time)] Server running at http://127.0.0.1:8000
+
+[Mon Nov 23 2020 06:53:40 GMT-0600 (Central Standard Time)] Server running at http://127.0.0.1:8000

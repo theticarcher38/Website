@@ -1,0 +1,17 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "A website created by me",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
+  },
+  "keywords": [],
+  "author": "Hunter Goodman",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.6"
+  }
+}
