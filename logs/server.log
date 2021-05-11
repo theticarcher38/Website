@@ -644,3 +644,24 @@
 [Mon Nov 23 2020 14:24:58 GMT+0000 (Coordinated Universal Time)] requesting ./assets/favicon/favicon.ico
 [Mon Nov 23 2020 14:24:58 GMT+0000 (Coordinated Universal Time)] requesting ./site.webmanifest
 [Mon Nov 23 2020 14:24:58 GMT+0000 (Coordinated Universal Time)] requesting ./assets/favicon/android-chrome-192x192.png
+
+[Tue May 11 2021 13:25:24 GMT+0000 (Coordinated Universal Time)] Server running at http://127.0.0.1:8000
+
+[Tue May 11 2021 13:25:45 GMT+0000 (Coordinated Universal Time)] Server running at https://127.0.0.1:8000
+
+[Tue May 11 2021 13:26:03 GMT+0000 (Coordinated Universal Time)] Server running at https://127.0.0.1:8000
+
+[Tue May 11 2021 13:27:20 GMT+0000 (Coordinated Universal Time)] Server running at https://127.0.0.1:8000
+
+[Tue May 11 2021 13:28:23 GMT+0000 (Coordinated Universal Time)] Server running at http://127.0.0.1:8000
+[Tue May 11 2021 13:28:23 GMT+0000 (Coordinated Universal Time)] requesting ./pages/home/home.html
+[Tue May 11 2021 13:28:23 GMT+0000 (Coordinated Universal Time)] requesting ./assets/globalCss/header/header.css
+[Tue May 11 2021 13:28:23 GMT+0000 (Coordinated Universal Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Tue May 11 2021 13:28:23 GMT+0000 (Coordinated Universal Time)] requesting ./assets/globalJavascript/topnav/topnav.js
+[Tue May 11 2021 13:28:23 GMT+0000 (Coordinated Universal Time)] requesting ./assets/favicon/favicon.ico
+
+[Tue May 11 2021 13:33:49 GMT+0000 (Coordinated Universal Time)] Server running at http://127.0.0.1:8000
+[Tue May 11 2021 13:33:49 GMT+0000 (Coordinated Universal Time)] requesting ./pages/home/home.html
+[Tue May 11 2021 13:33:49 GMT+0000 (Coordinated Universal Time)] requesting ./assets/globalCss/header/header.css
+[Tue May 11 2021 13:33:49 GMT+0000 (Coordinated Universal Time)] requesting ./assets/globalCss/topnav/topnav.css
+[Tue May 11 2021 13:33:49 GMT+0000 (Coordinated Universal Time)] requesting ./assets/globalJavascript/topnav/topnav.js
